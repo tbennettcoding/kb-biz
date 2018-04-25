@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8" />
+
+<link rel="stylesheet" href="/css/splash.css">
+
   <title>Bennett Nutrition</title>
 </head>
+
 <body>
   <header>
     <h1>Bennett Nutrition</h1>
