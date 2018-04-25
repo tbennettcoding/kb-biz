@@ -14,9 +14,11 @@
 
     </div>
         <ul>
+          <li>Bio Section</li>
           <li>Header</li>
           <li>Nav Bar(Internal links)</li>
           <li>Side Bar (External Links)</li>
+          <li>Portfolio Section</li>
           <li>Footer</li>
         </ul>
       </div>
