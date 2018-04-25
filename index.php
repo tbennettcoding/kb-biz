@@ -26,7 +26,7 @@
           <li>Portfolio Section</li>
           <li>Footer</li>
         </ul>
-      </div>
+    </div>
   </main>
 </body>
 </html>
