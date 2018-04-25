@@ -3,8 +3,12 @@ h1 {
   color: green;
 }
 
-div.ul {
+div.p {
   color: red;
+  text-shadow: 30px;
   text-align: center;
-  list-style-type: none;
+}
+
+body {
+  background-color: grey;
 }
